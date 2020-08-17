@@ -1,0 +1,29 @@
+.faq-contain {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(100% - 190px);
+  padding-left: 30px;
+  box-sizing: border-box;
+}
+.faq-dropdown-title.c-h3 {
+  margin: 0;
+  padding: 14px 0;
+  position: relative;
+  cursor: pointer;
+  transition: color .3s ease;
+}
+.page-wrap .c-h3 {
+  color: #000;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0 0 20px;
+  border-bottom: 2px solid #f4f4f4;
+  transition: .7s;
+}
+.page-wrap .c-h3:hover{
+  border-bottom: 2px solid #c912ab;
+  transition: .7s;
+}
+
+

@@ -1,0 +1,34 @@
+@media (min-width: 1200px) {
+    .container{
+        min-width: 1150px;
+    }
+    .slider-section{
+        min-width: 1150px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .slider-section{
+        min-width: 1150px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .slider-section{
+        min-width: 1150px;
+    }
+}
+@media (max-width: 767px) {
+    .slider-section{
+        min-width: 1150px;
+    }
+}
+@media (max-width: 576px) {
+    .slider-section{
+        min-width: 1150px;
+    }
+}
+
+@media (max-width: 412px) {
+    .slider-section{
+        min-width: 1150px;
+    }
+}

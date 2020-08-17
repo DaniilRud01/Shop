@@ -1,0 +1,36 @@
+/* purgecss start ignore */
+@tailwind  base;
+@tailwind  components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+@import "client/style/header/style";
+@import "client/style/basket/basket";
+@import "client/style/addedItem/addedItem";
+@import "client/style/header/burger-style";
+@import "client/style/slider/slider";
+@import "client/style/mainProduct/mainProduct";
+@import "client/style/footer/footer";
+@import "client/style/delivery/delivery";
+@import "client/style/home/home";
+@import "client/style/woman/woman";
+@import "client/style/clothes/clothes";
+@import "client/style/cardProduct/cardProduct";
+@import "client/style/faq/faq";
+@import "client/style/services/services";
+@import "client/style/faq-serach-product/faq-search-product";
+@import "client/style/ordering/ordering";
+@import "client/style/order-payment/OrderPayment";
+
+body{
+  font-family: 'Rowdies', cursive;
+}
+.active:before{
+  background: #fff;
+}
+.active:after{
+  background: #fff;
+}
+.hide{
+  background: none;
+}

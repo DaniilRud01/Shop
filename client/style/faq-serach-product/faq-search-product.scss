@@ -1,0 +1,79 @@
+.faq-dropdown-title.selected {
+  color: #CB11AB;
+}
+.faq-dropdown-title.c-h3 {
+  margin: 0;
+  padding: 14px 0;
+  position: relative;
+  cursor: pointer;
+}
+.page-wrap .c-h3 {
+  color: #a9149d;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0 0 20px;
+}
+.j-faq-dropdown-content .drop-show{
+  overflow: hidden;
+  display: block;
+  height: auto;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+}
+.faq-page p, .faq-page ul.faq-result-list li span, .faq-tab-item, .faq-next-btn, .faq-contain ul li, .faq-contain ol li, .c-important-text, .faq-menu-list li span, .faq-menu-title, .faq-contain h5 {
+  color: #000000;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+.faq-contain p {
+  margin: 0 0 15px;
+}
+.faq-tab-item.selected {
+  color: #CB11AB;
+  border-color: transparent;
+  cursor: default;
+}
+.faq-tab-item{
+  color: #000000;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+.faq-tab-item {
+  display: inline-block;
+  margin: 0 10px;
+  border-bottom: 1px dotted;
+  cursor: pointer;
+}
+.faq-tab-content-item.selected {
+  display: block;
+}
+.faq-page p{
+  color: #000000;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+.faq-contain p {
+  margin: 0 0 15px;
+}
+.faq-contain img {
+  display: block;
+  max-width: 100%;
+  margin: 15px 0 15px;
+  border: 1px solid #d5d5d5;
+  padding: 5px;
+}
+.page-wrap img {
+  max-width: 100%;
+  height: auto;
+}
+.faq-next-content {
+  display: block;
+}
+
+
